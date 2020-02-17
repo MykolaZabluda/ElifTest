@@ -1,0 +1,30 @@
+.navbar{
+    height: 50px;
+}
+
+.navbar-brand{
+    text-transform: uppercase;
+    margin-left: 40px;
+}
+
+.main{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.content{
+    text-transform: uppercase;
+}
+
+.coment_menu{
+    width: 300px;
+    height: 100px;
+}
+
+footer{
+    height: 50px;
+    background-color: #CCFFCC;  
+    flex-grow: 0; 
+    flex-shrink: 0; 
+    flex-basis: auto;
+}
